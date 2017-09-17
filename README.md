@@ -1,2 +1,2 @@
-# SUSTechCourseChoosen
+# SUSTechCourseChoosen 仅用于学用途
 SUSTechCourseChoosen
