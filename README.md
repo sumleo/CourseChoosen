@@ -1,2 +1,2 @@
-# CourseChoosen 仅用学习用途
+# CourseChoosen 用于学习用途
 CourseChoosen
