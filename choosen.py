@@ -5,7 +5,7 @@ headers={'Accept':'*/*',
 'Connection':'Keep-Alive',
 #抓一下cookie
 'Cookie':'',
-'Host':'jwxt.sustc.edu.cn',
+'Host':'jwxt.xxxx.edu.cn',
 'Referer':'http://jwxt.xxxxx.edu.cn/jsxsd/xsxkkc/comeInFawxk',
 'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
 'X-Requested-With':'XMLHttpRequest'
